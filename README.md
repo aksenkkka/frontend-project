@@ -33,5 +33,5 @@ Builds the app for production.
 
 
 Author
-'Created by aksenkkka'
+`Created by aksenkkka`
 ```
